@@ -1,0 +1,171 @@
+{
+    "Student Name": "Zena Neris",
+    "Advisor Name": "Yoo Mcginniss",
+    "Current Semester": 5,
+    "Student Id": "150118020",
+    "Completed Credits": 115,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 57,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 78,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 87,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 56,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 92,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 58,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 88,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 80,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 56,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 95,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE2023",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE2225",
+                "Integer Grade": 100,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ECON2004",
+                "Integer Grade": 42,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "EE2031",
+                "Integer Grade": 64,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH2055",
+                "Integer Grade": 52,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "MATH2059",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE2246",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE2138",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE2260",
+                "Integer Grade": 49,
+                "Letter Grade": "FD"
+            },
+            {
+                "Course Code": "EE2032",
+                "Integer Grade": 45,
+                "Letter Grade": "FD"
+            },
+            {
+                "Course Code": "STAT2253",
+                "Integer Grade": 69,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE3000",
+                "Integer Grade": 82,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "NTE1012(NTE/UE)",
+                "Integer Grade": 87,
+                "Letter Grade": "BA"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "CSE3215"
+            },
+            {
+                "Course Code": "CSE3033"
+            },
+            {
+                "Course Code": "CSE3055"
+            },
+            {
+                "Course Code": "CSE3063"
+            },
+            {
+                "Course Code": "IE3081"
+            }
+        ]
+    }
+}

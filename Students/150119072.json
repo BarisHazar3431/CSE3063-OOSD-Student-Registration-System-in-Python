@@ -1,0 +1,111 @@
+{
+    "Student Name": "Yasu Labore",
+    "Advisor Name": "Fenella Haroon",
+    "Current Semester": 3,
+    "Student Id": "150119072",
+    "Completed Credits": 59,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 64,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 75,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 67,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 0,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 81,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 54,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 100,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "YDIS1002(NTE/UE)",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "CSE2225"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "EE2031"
+            },
+            {
+                "Course Code": "MATH2055"
+            },
+            {
+                "Course Code": "MATH2059"
+            }
+        ]
+    }
+}

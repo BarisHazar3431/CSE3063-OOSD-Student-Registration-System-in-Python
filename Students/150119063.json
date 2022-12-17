@@ -1,0 +1,111 @@
+{
+    "Student Name": "Flosser Sabina",
+    "Advisor Name": "Ferrand Rosamilia",
+    "Current Semester": 3,
+    "Student Id": "150119063",
+    "Completed Credits": 55,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 77,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 89,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 92,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 62,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 6,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 85,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 78,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 88,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 55,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 92,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 71,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 64,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 55,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MRK3084(NTE/UE)",
+                "Integer Grade": 67,
+                "Letter Grade": "CC"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "MATH1001"
+            },
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "CSE2225"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "EE2031"
+            },
+            {
+                "Course Code": "MATH2055"
+            }
+        ]
+    }
+}

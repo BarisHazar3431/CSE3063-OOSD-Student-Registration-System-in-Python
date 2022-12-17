@@ -1,0 +1,235 @@
+{
+    "Student Name": "Fineberg Waas",
+    "Advisor Name": "Zach Zinter",
+    "Current Semester": 7,
+    "Student Id": "150117014",
+    "Completed Credits": 178,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 71,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 68,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 58,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 79,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 78,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 60,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 26,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 89,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 99,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 89,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 77,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE2023",
+                "Integer Grade": 82,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE2225",
+                "Integer Grade": 53,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "ECON2004",
+                "Integer Grade": 62,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "EE2031",
+                "Integer Grade": 45,
+                "Letter Grade": "FD"
+            },
+            {
+                "Course Code": "MATH2055",
+                "Integer Grade": 52,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "MATH2059",
+                "Integer Grade": 80,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE2246",
+                "Integer Grade": 81,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE2138",
+                "Integer Grade": 64,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE2260",
+                "Integer Grade": 72,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "STAT2253",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE3000",
+                "Integer Grade": 68,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE3215",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE3033",
+                "Integer Grade": 14,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE3055",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE3063",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "IE3081",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE3038",
+                "Integer Grade": 54,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE3044",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE3048",
+                "Integer Grade": 64,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE3264",
+                "Integer Grade": 68,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "IE3235",
+                "Integer Grade": 58,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "COM2202",
+                "Integer Grade": 55,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE4000",
+                "Integer Grade": 72,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "NTE1010(NTE/UE)",
+                "Integer Grade": 87,
+                "Letter Grade": "BA"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "EE2031"
+            },
+            {
+                "Course Code": "CSE3033"
+            },
+            {
+                "Course Code": "CSE4074"
+            },
+            {
+                "Course Code": "CSE4219"
+            },
+            {
+                "Course Code": "ISG121"
+            },
+            {
+                "Course Code": "CSE4288"
+            },
+            {
+                "Course Code": "CSE4297(Final Project)"
+            },
+            {
+                "Course Code": "MGT3082(NTE/UE)"
+            },
+            {
+                "Course Code": "CSE4056(TE)"
+            }
+        ]
+    }
+}

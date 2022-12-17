@@ -1,0 +1,150 @@
+{
+    "Student Name": "Wolfson Tullius",
+    "Advisor Name": "Fennelly Fresco",
+    "Current Semester": 5,
+    "Student Id": "150118050",
+    "Completed Credits": 85,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 69,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 54,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 39,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 87,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 11,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 93,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 53,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 12,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 86,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 9,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 53,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE2023",
+                "Integer Grade": 66,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "ECON2004",
+                "Integer Grade": 58,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "EE2031",
+                "Integer Grade": 88,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "MATH2055",
+                "Integer Grade": 74,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH2059",
+                "Integer Grade": 76,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "CSE2246",
+                "Integer Grade": 84,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE2138",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "EE2032",
+                "Integer Grade": 33,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "STAT2253",
+                "Integer Grade": 57,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE3000",
+                "Integer Grade": 87,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "MRK3082(NTE/UE)",
+                "Integer Grade": 5,
+                "Letter Grade": "FF"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "CSE1241"
+            },
+            {
+                "Course Code": "PHYS1101"
+            },
+            {
+                "Course Code": "CSE3215"
+            },
+            {
+                "Course Code": "IE3081"
+            }
+        ]
+    }
+}

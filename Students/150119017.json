@@ -1,0 +1,114 @@
+{
+    "Student Name": "Wylen Bieda",
+    "Advisor Name": "Faxun Arntzen",
+    "Current Semester": 3,
+    "Student Id": "150119017",
+    "Completed Credits": 37,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 78,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 19,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 93,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 85,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 55,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 48,
+                "Letter Grade": "FD"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 87,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 71,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 2,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 5,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 15,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 3,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 76,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "HR4001(NTE/UE)",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "MBG1201"
+            },
+            {
+                "Course Code": "TRD121"
+            },
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "CSE2225"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "MATH2055"
+            },
+            {
+                "Course Code": "MATH2059"
+            }
+        ]
+    }
+}

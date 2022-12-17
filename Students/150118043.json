@@ -1,0 +1,161 @@
+{
+    "Student Name": "Farl Heidelberger",
+    "Advisor Name": "Fenella Haroon",
+    "Current Semester": 5,
+    "Student Id": "150118043",
+    "Completed Credits": 90,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 37,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 44,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 72,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 52,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 85,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 20,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 73,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 51,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 3,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 73,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 77,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 70,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 61,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 68,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE2023",
+                "Integer Grade": 37,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "ECON2004",
+                "Integer Grade": 23,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "EE2031",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH2055",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH2059",
+                "Integer Grade": 81,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE2246",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE2138",
+                "Integer Grade": 69,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "EE2032",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "STAT2253",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE3000",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CAS2001(NTE/UE)",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "MBG1201"
+            },
+            {
+                "Course Code": "CSE1200"
+            },
+            {
+                "Course Code": "PHYS1103"
+            },
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "IE3081"
+            }
+        ]
+    }
+}

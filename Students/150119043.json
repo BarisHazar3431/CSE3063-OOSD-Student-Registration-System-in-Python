@@ -1,0 +1,108 @@
+{
+    "Student Name": "Yetah Forsee",
+    "Advisor Name": "Faxun Arntzen",
+    "Current Semester": 3,
+    "Student Id": "150119043",
+    "Completed Credits": 57,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 82,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 54,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 54,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 52,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 86,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 91,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 100,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 100,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 52,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 55,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 47,
+                "Letter Grade": "FD"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 66,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 62,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CAS2001(NTE/UE)",
+                "Integer Grade": 73,
+                "Letter Grade": "CC"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "CSE2225"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "MATH2055"
+            },
+            {
+                "Course Code": "MATH2059"
+            }
+        ]
+    }
+}

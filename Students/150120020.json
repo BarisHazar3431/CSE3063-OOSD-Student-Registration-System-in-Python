@@ -1,0 +1,36 @@
+{
+    "Student Name": "Witha Medaris",
+    "Advisor Name": "Yoo Mcginniss",
+    "Current Semester": 1,
+    "Student Id": "150120020",
+    "Completed Credits": 0,
+    "Transcript": {
+        "Past Courses": [],
+        "Current Courses": [
+            {
+                "Course Code": "ATA121"
+            },
+            {
+                "Course Code": "MBG1201"
+            },
+            {
+                "Course Code": "CSE1200"
+            },
+            {
+                "Course Code": "CSE1241"
+            },
+            {
+                "Course Code": "MATH1001"
+            },
+            {
+                "Course Code": "PHYS1101"
+            },
+            {
+                "Course Code": "PHYS1103"
+            },
+            {
+                "Course Code": "TRD121"
+            }
+        ]
+    }
+}

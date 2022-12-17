@@ -1,0 +1,114 @@
+{
+    "Student Name": "Florencia Shelhamer",
+    "Advisor Name": "Zita Vinal",
+    "Current Semester": 3,
+    "Student Id": "150119010",
+    "Completed Credits": 38,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 62,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 56,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 3,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 62,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 63,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 23,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 93,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 22,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 68,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 41,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 96,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 23,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CAS2004(NTE/UE)",
+                "Integer Grade": 35,
+                "Letter Grade": "FF"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "CSE1200"
+            },
+            {
+                "Course Code": "PHYS1101"
+            },
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "CSE2225"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "MATH2055"
+            },
+            {
+                "Course Code": "MATH2059"
+            }
+        ]
+    }
+}

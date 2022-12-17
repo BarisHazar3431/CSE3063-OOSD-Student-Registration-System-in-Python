@@ -1,0 +1,117 @@
+{
+    "Student Name": "Xylina Bauknecht",
+    "Advisor Name": "Fish Brimley",
+    "Current Semester": 3,
+    "Student Id": "150119064",
+    "Completed Credits": 45,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 50,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 42,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 95,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 67,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 46,
+                "Letter Grade": "FD"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 96,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 99,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 64,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 62,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 28,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 40,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 100,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "OB2041(NTE/UE)",
+                "Integer Grade": 73,
+                "Letter Grade": "CC"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "MBG1201"
+            },
+            {
+                "Course Code": "PHYS1101"
+            },
+            {
+                "Course Code": "CSE2023"
+            },
+            {
+                "Course Code": "CSE2225"
+            },
+            {
+                "Course Code": "ECON2004"
+            },
+            {
+                "Course Code": "EE2031"
+            },
+            {
+                "Course Code": "MATH2055"
+            },
+            {
+                "Course Code": "MATH2059"
+            }
+        ]
+    }
+}

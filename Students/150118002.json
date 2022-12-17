@@ -1,0 +1,152 @@
+{
+    "Student Name": "Favrot Standfield",
+    "Advisor Name": "Zita Vinal",
+    "Current Semester": 5,
+    "Student Id": "150118002",
+    "Completed Credits": 101,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 75,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 96,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 65,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 54,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 56,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 58,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 60,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 90,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1242",
+                "Integer Grade": 11,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 63,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 74,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 55,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 80,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "CSE2023",
+                "Integer Grade": 91,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ECON2004",
+                "Integer Grade": 81,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "EE2031",
+                "Integer Grade": 83,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "MATH2055",
+                "Integer Grade": 18,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH2059",
+                "Integer Grade": 68,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "CSE2246",
+                "Integer Grade": 40,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE2138",
+                "Integer Grade": 92,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "EE2032",
+                "Integer Grade": 76,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "STAT2253",
+                "Integer Grade": 61,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE3000",
+                "Integer Grade": 98,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "NTE1002(NTE/UE)",
+                "Integer Grade": 67,
+                "Letter Grade": "CC"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "MATH2055"
+            },
+            {
+                "Course Code": "CSE3215"
+            },
+            {
+                "Course Code": "IE3081"
+            }
+        ]
+    }
+}

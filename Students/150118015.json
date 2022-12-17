@@ -1,0 +1,150 @@
+{
+    "Student Name": "Yates Tacke",
+    "Advisor Name": "Fish Brimley",
+    "Current Semester": 5,
+    "Student Id": "150118015",
+    "Completed Credits": 91,
+    "Transcript": {
+        "Past Courses": [
+            {
+                "Course Code": "ATA121",
+                "Integer Grade": 9,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MBG1201",
+                "Integer Grade": 96,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "CSE1200",
+                "Integer Grade": 63,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE1241",
+                "Integer Grade": 14,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "MATH1001",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "PHYS1101",
+                "Integer Grade": 74,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1103",
+                "Integer Grade": 56,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "TRD121",
+                "Integer Grade": 52,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "ATA122",
+                "Integer Grade": 59,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "MATH1002",
+                "Integer Grade": 53,
+                "Letter Grade": "DD"
+            },
+            {
+                "Course Code": "MATH2256",
+                "Integer Grade": 73,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "PHYS1102",
+                "Integer Grade": 97,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "PHYS1104",
+                "Integer Grade": 94,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "TRD122",
+                "Integer Grade": 0,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "CSE2023",
+                "Integer Grade": 92,
+                "Letter Grade": "AA"
+            },
+            {
+                "Course Code": "ECON2004",
+                "Integer Grade": 82,
+                "Letter Grade": "BB"
+            },
+            {
+                "Course Code": "EE2031",
+                "Integer Grade": 66,
+                "Letter Grade": "CC"
+            },
+            {
+                "Course Code": "MATH2055",
+                "Integer Grade": 78,
+                "Letter Grade": "CB"
+            },
+            {
+                "Course Code": "MATH2059",
+                "Integer Grade": 89,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "CSE2246",
+                "Integer Grade": 89,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "CSE2138",
+                "Integer Grade": 85,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "EE2032",
+                "Integer Grade": 88,
+                "Letter Grade": "BA"
+            },
+            {
+                "Course Code": "STAT2253",
+                "Integer Grade": 60,
+                "Letter Grade": "DC"
+            },
+            {
+                "Course Code": "CSE3000",
+                "Integer Grade": 18,
+                "Letter Grade": "FF"
+            },
+            {
+                "Course Code": "YDF1002(NTE/UE)",
+                "Integer Grade": 75,
+                "Letter Grade": "CB"
+            }
+        ],
+        "Current Courses": [
+            {
+                "Course Code": "ATA121"
+            },
+            {
+                "Course Code": "CSE1241"
+            },
+            {
+                "Course Code": "CSE3215"
+            },
+            {
+                "Course Code": "IE3081"
+            }
+        ]
+    }
+}
